@@ -9,7 +9,7 @@
     "supervisor": "bcr.beatriq.com/{arch}-supervisor",
     "beatriqos-cli": "bcr.beatriq.com/{arch}-beatriqos-client",
     "beatriqos-web": "bcr.beatriq.com/{arch}-beatriqos-webui",
-    "vault": "hashicorp/vault",
-    "rabbitmq": "rabbitmq"
+    "vault": "bcr.beatriq.com/hashicorp/vault",
+    "rabbitmq": "bcr.beatriq.com/rabbitmq//rabbitmq"
   }
 }
