@@ -10,6 +10,6 @@
     "beatriqos-cli": "bcr.beatriq.com/{arch}-beatriqos-client",
     "beatriqos-web": "bcr.beatriq.com/{arch}-beatriqos-webui",
     "vault": "bcr.beatriq.com/hashicorp/vault",
-    "rabbitmq": "bcr.beatriq.com/rabbitmq//rabbitmq"
+    "rabbitmq": "bcr.beatriq.com/rabbitmq/rabbitmq"
   }
 }
